@@ -6,4 +6,3 @@ data/
 *.pkl
 .TODOS
 models/
-scripts/
