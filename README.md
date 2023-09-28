@@ -5,18 +5,6 @@
 
 <br />
 
-<p align="center">
-<img src="https://realworldmachinelearning.carrd.co/assets/images/image05.jpg?v=48b679cb" width="250" align="center">
-</p>
-
-<div align="center">
-    <sub>Let's connect 🤗</sub>
-    <br />
-    <a href="https://twitter.com/paulabartabajo_">Twitter</a> •
-    <a href="https://www.linkedin.com/in/pau-labarta-bajo-4432074b/">LinkedIn</a> •
-    <a href="https://paulabartabajo.substack.com/">Newsletter</a>
-<br />
-</div>
 
 ## Quick setup
 
@@ -34,8 +22,3 @@
     ```
     $ poetry shell
     ```
-
-## Wanna see it in action?
-
-- [Live Dashboard with model predictions](https://taxi-demand-predictor.streamlit.app/)
-- [Live Dashboard with model monitoring ](https://taxi-demand-predictor-monitoring.streamlit.app/)
